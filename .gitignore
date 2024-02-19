@@ -1,0 +1,6 @@
+.qtc_clangd/
+build/
+flash/
+*.user
+*.cflags
+*.cxxflags
